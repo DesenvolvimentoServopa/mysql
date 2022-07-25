@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body{
+	display: flex;
+}
+#ul_prin {
+    display: flex;
+}

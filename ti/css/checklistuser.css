@@ -1,0 +1,42 @@
+table{
+   font-size: 10px;
+}
+.logo{
+   margin-left: 80%;
+   margin-bottom: 2%;
+}
+.logo2{
+   position: absolute;
+   top: -20px;
+   bottom: 100px;
+}
+.linha_table{
+   background-color: #bfbfbf;
+}
+td {
+      border: 1px solid #dee2e6;
+}
+.info_user {
+    background-color: #f9f3f3a1;
+}
+td.marcador {
+    font-size: 20px;
+}
+p{
+   font-size: 13px;
+}
+#up_linha {
+    position: absolute;
+    top: -2%;
+}
+p#up {
+    position: absolute;
+    top: 6%;
+}
+img.celular {
+    width: 115%;
+}
+
+th{
+   font-weight: bold;
+}

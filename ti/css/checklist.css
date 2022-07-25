@@ -1,0 +1,73 @@
+font-weight-light {
+    font-size: 9px;
+}
+
+table {
+    font-size: 8px;
+}
+
+.logo {
+    margin-left: 80%;
+    margin-bottom: 2%;
+}
+
+.logo2 {
+    position: absolute;
+    top: -20px;
+    bottom: 100px;
+}
+
+.linha_table {
+    background-color: #bfbfbf;
+}
+
+td {
+    border: 1px solid #dee2e6;
+    padding: 3px;
+}
+
+.info_user {
+    background-color: #f9f3f3a1;
+}
+
+td.marcador {
+    font-size: 20px;
+}
+
+p {
+    font-size: 13px;
+}
+
+#up_linha {
+    position: absolute;
+    top: -2%;
+}
+
+p#up {
+    position: absolute;
+    top: 18%;
+}
+
+img.celular {
+    width: 115%;
+}
+
+th {
+    font-weight: bold;
+}
+
+#alerta {
+    margin-bottom: -12px;
+    margin-top: 5px;
+}
+
+#titulo_alerta {
+    font-size: 14px;
+    margin-bottom: -2px;
+    color: red;
+    font-weight: bold;
+}
+
+#sub_alerta {
+    font-size: 7px;
+}

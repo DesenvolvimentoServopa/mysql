@@ -1,0 +1,270 @@
+.logo {
+    margin-top: 39%;
+    padding-left: 48px;
+}
+
+.backgroundWhite {
+    background-color: white;
+}
+
+.colorBlack {
+    color: black;
+}
+
+.colorRed {
+    color: red;
+    text-transform: uppercase;
+}
+
+.colorBlue {
+    color: #4e73df;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.colorTable {
+    color: #858796;
+}
+
+.colorGrenn {
+    color: green;
+}
+
+.iconeLogo {
+    color: #797878;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+}
+
+.list-servidor {
+    display: block !important;
+}
+
+.data {
+    margin-top: 7px;
+    margin-right: 10px;
+}
+
+.padding-top {
+    padding-top: 20px;
+}
+.right{
+    margin-right: 10px;
+}
+.rigth {
+    margin-right: 20px;
+}
+
+.left {
+    margin-left: 25%;
+}
+
+.paddingDez {
+    padding: 10px;
+}
+
+.text-decoration {
+    text-decoration: none !important;
+}
+
+.fd_logo {
+    margin-left: -80px;
+}
+
+.small-lither {
+    font-size: 10px;
+}
+
+.icone {
+    font-weight: bolder;
+    padding: 4px;
+}
+
+.padding-lither {
+    padding: 5px;
+}
+
+.float-rigth {
+    float: right;
+}
+
+.maior {
+    width: 80px !important;
+}
+
+.centro {
+    margin: auto;
+    width: 80%;
+    position: relative;
+    text-align: center
+}
+
+.centro img {
+    width: 50%
+}
+
+.dentro {
+    padding: 10px;
+    top: 70%;
+    left: 20%;
+}
+
+.centro hr {
+    border-top: 0px solid rgba(0, 0, 0);
+}
+
+.borderradius {
+    border-radius: 10px !important;
+}
+
+.labelinfo {
+    /* padding: .375rem .75rem; */
+    text-align: center;
+    cursor: pointer;
+    /* margin-top: 5%;
+    width: 140px; */
+    margin-bottom: 0px !important;
+  
+    
+}
+.textoanexar{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.roscovo input[type='file'] {
+    display: none
+}
+
+.negritoad {
+    font-weight: 600;
+    color: black !important;
+}
+
+.negritoad hr{
+    border-top: 0px solid rgba(0,0,0) !important;
+}
+
+.tamanhohr {
+    margin-bottom: -14px;
+}
+
+.btn-block22 {
+    display:block;
+    float: right;
+    margin-top: 8%;
+    margin-left: 1%;
+}
+
+.botaoanexo {
+    padding: 0.175rem .75rem !important;
+}
+
+.borderradius {
+    border-radius: 10px !important ;
+}
+
+.menu{
+    font-size: 15px;
+}
+
+.textCenterTable{
+    margin-left: 24%;
+}
+
+.textCenterModal{
+    margin-left: 20%;
+}
+
+.textCenterTela{
+    margin-left: 35%;
+}
+
+.googleldados {
+    margin: auto;
+    width: 80%;
+    position: relative;
+    
+}
+
+.w-p {
+width: 50%;
+
+}
+
+.googleldados2 {
+   
+    width: 80%;
+    position: relative;
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+
+.googleldados2 img{
+    width: 10%;
+    
+}
+
+.p-relative {
+
+    position: relative;
+    margin-left: 3%;
+}
+
+.firstcard{
+
+    width: 75%;
+}
+
+.absolutehr{
+margin-bottom: 3%;
+  
+}
+
+.rigtIcones{
+    margin-right: 5px;
+}
+
+.iconeAjustar{
+    margin-top: -37px;
+    margin-left: 50px;
+}
+
+.iconeAjustarDireita{      
+    border-top-right-radius: 1px;
+    border-bottom-right-radius: 1px;
+}
+
+.fajusteDireita{    
+    margin-left: 207px;
+    border-top-left-radius: 1px;
+    border-bottom-left-radius: 1px;
+    margin-top: -64px;
+}
+
+.termo{
+    
+    margin-left: 55%;
+    margin-bottom: 15px;
+}
+
+.espaco{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.lixeira{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.editar{
+    margin-top: 20px;
+}
+
+.textoCentro{
+    text-align: center;
+}
